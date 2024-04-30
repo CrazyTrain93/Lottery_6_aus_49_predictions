@@ -1,14 +1,22 @@
 # Lotto 6 aus 49 Number Predictions with statistics and Machine Learning
 
-### Skills in this Notebook shown:
-- Data Preprocessing
-- Statistical Analysis
-- Recurrent Neuronal Networks (LSTM Model)
-- Machine Learning Models
-- Use Pickle Files to store Predictions or results
-- Monte Carlo Simulation and Validation
+Welcome to the Lotto 6 aus 49 Prediction Project! This repository contains predictive models and analyses for Lotto 6 aus 49, a popular lottery game in Germany. Through statistical analysis, machine learning models, and simulations, we aim to provide insights and predictions to help lottery enthusiasts make informed decisions.
 
-After storing all Lotto Numbers with their Date of drawing in a CSV (Notebook 1), we make 6 Lotto Number Predictions with 6 different Methods you found in each Notebook. 
+### Features:
+
+Statistical Analysis: Explore historical data to identify patterns and trends in lottery numbers.
+Hot Numbers: Predictions based on frequently drawn numbers in previous draws.
+Cold Numbers: Predictions based on numbers that have been drawn less frequently.
+Longest Time not seen: Predictions based on numbers that have been absent for the longest duration.
+Monte Carlo Simulation: Simulate lottery draws using random sampling techniques.
+LSTM Model: Long Short-Term Memory model for sequence prediction.
+Random Forest Model: Ensemble learning model for accurate predictions.
+
+### Usage:
+
+Explore the notebooks and scripts to understand the methodology and implementation of each predictive model.
+Use the provided models to generate predictions for future Lotto 6 aus 49 draws.
+Contribute to the project by improving existing models or exploring new methodologies.
 
 If you are only interested in one specific Method then just run Notebook 1-Data_Generation.ipynb and skip to the Notebook for your desire.
 
