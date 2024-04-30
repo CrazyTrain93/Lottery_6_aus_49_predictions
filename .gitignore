@@ -2,3 +2,5 @@
 .venv
 myenv
 *.csv
+*.pkl
+*.pickle

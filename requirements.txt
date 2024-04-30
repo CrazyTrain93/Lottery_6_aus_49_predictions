@@ -3,3 +3,6 @@ matplotlib
 scikit-learn
 keras
 tensorflow
+pickle
+numpy
+ast
